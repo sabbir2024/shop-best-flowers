@@ -79,7 +79,7 @@
 
 .flowers-item-containar {
     text-align: center;
-    padding-top: 120px;
+    padding-top: 140px;
 }
 
 .pink,
@@ -121,7 +121,7 @@
 /* contract us section */
 .contract-section {
     background: rgba(39, 39, 39, 0.05);
-    margin: 30px;
+    margin: 70px;
 
 }
 
@@ -148,29 +148,28 @@
     padding-top: 30px;
 }
 
-.online-totinstagram {
-    margin-top: 150px;
+.online-to-instagram {
+    margin-top: 200px;
 }
 
 .gallery {
-    width: 1100px;
+    width: 1000px;
     margin: auto;
     text-align: center;
 }
 
 .gallery>img {
-    width: 240px;
+    width: 230px;
+    gap: 120px;
 }
 
 .subscribe-section {
     background: url('../images/Rectangle\ 9.png');
     text-align: center;
     padding: 30px 25px;
-    margin: 30px;
+    margin: 40px;
 }
 
-label{
-}
 input{
     border: none;
     width: 300px;
@@ -192,4 +191,16 @@ button {
     border-radius: 3px;
     border:none;
     padding: 3px;
+}
+
+footer{
+    background-color: #111010;
+    color: #FFF;
+    text-align: center;
+    padding: 120px 340px;
+}
+
+footer p{
+    padding-bottom: 50px;
+    color: rgba(255, 255, 255, 0.40)
 }
