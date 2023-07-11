@@ -32,8 +32,8 @@
     font-weight: 800;
 }
 
-.HotPink{
-    color: #E55473 ;
+.HotPink {
+    color: #E55473;
 }
 
 /* primary section end */
@@ -136,27 +136,60 @@
 .offer {
     border-radius: 8px;
     background: rgba(229, 84, 115, 0.05);
-    padding-bottom: 70px    ;
+    padding-bottom: 70px;
 }
 
-.offer-title{
+.offer-title {
     text-align: center;
     margin: 30px 0;
 }
 
-.offer-title  h2{
+.offer-title h2 {
     padding-top: 30px;
 }
 
-.online-totinstagram{
+.online-totinstagram {
     margin-top: 150px;
 }
 
-.gallery{
+.gallery {
     width: 1100px;
     margin: auto;
     text-align: center;
 }
-.gallery > img{
+
+.gallery>img {
     width: 240px;
+}
+
+.subscribe-section {
+    background: url('../images/Rectangle\ 9.png');
+    text-align: center;
+    padding: 30px 25px;
+    margin: 30px;
+}
+
+label{
+}
+input{
+    border: none;
+    width: 300px;
+    height: 30px;
+    border-radius: 5px;
+    border: none;
+    
+}
+text{
+    width: 30px;
+    height: 15px;
+    padding: 5px;
+}
+button {
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+    background-color: #E55473;
+    border-radius: 3px;
+    border:none;
+    padding: 3px;
 }
