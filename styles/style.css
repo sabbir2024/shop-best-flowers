@@ -145,6 +145,12 @@ body{
     padding-bottom: 70px;
 }
 
+.offer .main{
+    display: flex;
+    text-align: center;
+    justify-items: center;
+    justify-content: space-around;
+}
 .offer-title {
     text-align: center;
     margin: 30px 0;
@@ -157,19 +163,6 @@ body{
 .online-to-instagram {
     margin-top: 200px;
 }
-
-/* .gallery {
-    width: 1000px;
-    margin: auto;
-    text-align: center;
-} */
-
-
-
-/* .gallery>img {
-    width: 230px;
-    gap: 120px;
-} */
 
 .gallery{
     display: flex;
