@@ -72,7 +72,8 @@ body{
 /* futre servies  */
 
 .coming-soon-flowers {
-    margin: 10px;
+    
+    margin-top: 100px;
 }
 
 .content {
@@ -84,7 +85,10 @@ body{
 
 .flowers-item-containar {
     text-align: center;
-    padding-top: 140px;
+    
+    display: flex;
+    justify-content: center;
+    gap: 10px;
 }
 
 .pink,
@@ -145,23 +149,21 @@ body{
     padding-bottom: 70px;
 }
 
-.offer .main{
+.main{
     display: flex;
-    text-align: center;
-    justify-items: center;
-    justify-content: space-around;
+    align-items: center;
+    justify-content: center;
 }
 .offer-title {
-    text-align: center;
-    margin: 30px 0;
-}
-
-.offer-title h2 {
-    padding-top: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
 }
 
 .online-to-instagram {
-    margin-top: 200px;
+    margin-top: 20px;
 }
 
 .gallery{
