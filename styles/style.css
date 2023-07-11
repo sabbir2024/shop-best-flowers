@@ -192,6 +192,28 @@ button {
     border:none;
     padding: 3px;
 }
+/* form */
+form{
+    background-color: aquamarine;
+    padding: 10px;
+}
+
+.join-us > h1{
+    text-align: center;
+}
+form .list{
+    display: block;
+    margin:25px;
+}
+
+.btn{
+    color: #FFF;
+    background-color: #E55473;
+    margin: 3px;
+}
+
+
+/* footer section */
 
 footer{
     background-color: #111010;
